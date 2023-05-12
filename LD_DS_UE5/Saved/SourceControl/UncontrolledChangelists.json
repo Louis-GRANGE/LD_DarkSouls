@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Graphics/Materials/M_Fog.uasset",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Maps/Level_DarkSouls.umap",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Usable_Content/BP_Elevator.uasset",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Usable_Content/BP_Door_2.uasset",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Maps/Level_Tutoriel.umap",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Usable_Content/BP_Enemy_Melee_Elite.uasset",
+				"B:/Projects/UE4/LD_DarkSouls/LD_DS_UE5/Content/Usable_Content/BP_Pickup_Bonus3.uasset",
 				"C:/Users/Bapti/Documents/LD_DarkSouls/LD_DS_UE5/Content/Maps/Level_DarkSouls.umap"
 			]
 		}
